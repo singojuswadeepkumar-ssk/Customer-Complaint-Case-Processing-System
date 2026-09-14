@@ -1,0 +1,20 @@
+{
+    "version": "0.2",
+    "language": "en",
+    "words": [
+        "genai",
+        "langchain",
+        "pymupdf",
+        "fitz",
+        "dotenv",
+        "pydantic",
+        "docx",
+        "gemini"
+    ],
+    "ignorePaths": [
+        ".venv/**",
+        "output/**",
+        "logs/**",
+        "*.log"
+    ]
+}

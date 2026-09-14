@@ -1,0 +1,25 @@
+Customer Name: Priya Sharma
+Email: priya.sharma@techmail.in
+Phone: +91-98765-43210
+
+Date: August 29, 2026
+
+Subject: Mobile App Keeps Crashing — Unable to Access Account
+
+To Whom It May Concern,
+
+I have been experiencing a persistent technical issue with your mobile application (version 4.2.1) on my Android device (Samsung Galaxy S23, Android 14). The app crashes every time I try to log in, showing a "Runtime Error 503" message before closing.
+
+This issue started on August 25, 2026 following your app update. I have already tried:
+- Uninstalling and reinstalling the application
+- Clearing cache and app data
+- Restarting my device
+
+None of these steps resolved the issue. I rely on this app for daily banking transactions and have been unable to access my account for 4 consecutive days, causing significant disruption to my business payments.
+
+I have not been able to reach a resolution through your chatbot. I am attaching screenshots of the error for your reference.
+
+This is an urgent matter and I expect immediate technical support. If the issue is not fixed within 48 hours, I will be forced to switch to a competitor service and will post a detailed review on public forums.
+
+Regards,
+Priya Sharma
